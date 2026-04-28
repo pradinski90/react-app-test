@@ -1,6 +1,6 @@
 # React App Test
 
-- [ ] Task 1: Create and add to git react app
+- [ ] Task 1: Create and add to git react app (add git ignore for a react app ex: removes node_modules to be stored in git)
 - [ ] Task 2: Create a cart component with hardcoded values
 - [ ] Task 3: Integrate google auth to the application and pull a token
 - [ ] Task 4: Use the token and allow the app to pull mails from gmail and display as a list
