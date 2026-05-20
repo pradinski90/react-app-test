@@ -7,4 +7,4 @@
 - [ ] Task 5: Detail view of a message to display the content in a popup
 - [ ] Task 6: Delete emails
 - [ ] Task 7: New task
-- [ ] Task 8: New task
+- [ ] Task 8: Plamen task
