@@ -6,3 +6,4 @@
 - [ ] Task 4: Use the token and allow the app to pull mails from gmail and display as a list
 - [ ] Task 5: Detail view of a message to display the content in a popup
 - [ ] Task 6: Delete emails
+- [ ] Task 7: New task
